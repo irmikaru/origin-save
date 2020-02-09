@@ -1,0 +1,25 @@
+[00:00:37]: [Announcement] Hound Attack: Today!
+[00:00:39]: [Announcement] Hound Attack: Today!
+[00:01:38]: [Join Announcement] Mikaru
+[00:02:12]: [Join Announcement] a s w k
+[00:03:39]: [Death Announcement] a s w k 死于： 啜食者. 她变成了可怕的鬼魂！
+[00:03:47]: [Death Announcement] Mikaru 死于： 中暑. 她变成了可怕的鬼魂！
+[00:03:48]: [Resurrect Announcement] Mikaru 被此人复活： 骷髅.
+[00:03:55]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[00:04:47]: [Death Announcement] a s w k 死于： 火猎犬. 她变成了可怕的鬼魂！
+[00:04:53]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[00:05:03]: [Death Announcement] a s w k 死于： 火猎犬. 她变成了可怕的鬼魂！
+[00:05:06]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[00:08:41]: [Join Announcement] 疯狂白给
+[00:41:02]: [Announcement] Hound Attack: 2 days left
+[00:47:57]: [Death Announcement] a s w k 死于： 眼球草. 她变成了可怕的鬼魂！
+[00:48:04]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[00:48:12]: [Death Announcement] a s w k 死于： 眼球草. 她变成了可怕的鬼魂！
+[00:48:13]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[00:49:02]: [Announcement] Hound Attack: 1 day left
+[00:49:14]: [Leave Announcement] a s w k
+[00:52:48]: [Death Announcement] Mikaru 死于： 兔人. 她变成了可怕的鬼魂！
+[00:52:49]: [Resurrect Announcement] Mikaru 被此人复活： 骷髅.
+[00:57:03]: [Announcement] Hound Attack: Today!
+[01:03:46]: [Leave Announcement] Mikaru
+[01:03:47]: [Leave Announcement] 疯狂白给

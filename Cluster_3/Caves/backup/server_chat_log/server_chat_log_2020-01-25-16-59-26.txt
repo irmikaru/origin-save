@@ -1,0 +1,11 @@
+[00:01:25]: [Join Announcement] Mikaru
+[00:01:47]: [Join Announcement] a s w k
+[00:03:53]: [Join Announcement] 疯狂白给
+[00:06:16]: [Leave Announcement] 疯狂白给
+[00:07:46]: [Announcement] Hound Attack: 2 days left
+[00:09:54]: [Join Announcement] 疯狂白给
+[00:15:47]: [Announcement] Hound Attack: 1 day left
+[00:23:48]: [Announcement] Hound Attack: Today!
+[00:30:32]: [Death Announcement] 疯狂白给 死于： 火猎犬. 她变成了可怕的鬼魂！
+[00:30:33]: [Resurrect Announcement] 疯狂白给 被此人复活： 骷髅.
+[00:30:39]: [Death Announcement] a s w k 死于： 火猎犬. 她变成了可怕的鬼魂！

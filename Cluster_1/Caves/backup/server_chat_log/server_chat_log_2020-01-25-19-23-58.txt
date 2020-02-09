@@ -1,0 +1,46 @@
+[00:01:53]: [Join Announcement] a s w k
+[00:01:57]: [Join Announcement] Mikaru
+[00:02:04]: [Join Announcement] 疯狂白给
+[00:08:30]: [Death Announcement] a s w k 死于： 蜘蛛. 她变成了可怕的鬼魂！
+[00:08:48]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[00:09:22]: [Death Announcement] Mikaru 死于： 火猎犬. 她变成了可怕的鬼魂！
+[00:09:36]: [Resurrect Announcement] Mikaru 被此人复活： 骷髅.
+[00:10:14]: [Death Announcement] a s w k 死于： 蜘蛛战士. 她变成了可怕的鬼魂！
+[00:10:48]: [Death Announcement] 疯狂白给 死于： 中暑. 她变成了可怕的鬼魂！
+[00:10:48]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[00:10:49]: [Resurrect Announcement] 疯狂白给 被此人复活： 骷髅.
+[00:12:20]: [Death Announcement] 疯狂白给 死于： 中暑. 她变成了可怕的鬼魂！
+[00:12:22]: [Resurrect Announcement] 疯狂白给 被此人复活： 骷髅.
+[00:13:43]: [Death Announcement] 疯狂白给 死于： 中暑. 她变成了可怕的鬼魂！
+[00:13:44]: [Resurrect Announcement] 疯狂白给 被此人复活： 骷髅.
+[00:15:07]: [Death Announcement] 疯狂白给 死于： 中暑. 她变成了可怕的鬼魂！
+[00:15:08]: [Resurrect Announcement] 疯狂白给 被此人复活： 骷髅.
+[00:17:27]: [Death Announcement] Mikaru 死于： 中暑. 她变成了可怕的鬼魂！
+[00:17:28]: [Resurrect Announcement] Mikaru 被此人复活： 骷髅.
+[00:17:42]: [Death Announcement] 疯狂白给 死于： 中暑. 她变成了可怕的鬼魂！
+[00:17:57]: [Death Announcement] a s w k 死于： 蜘蛛. 她变成了可怕的鬼魂！
+[00:18:03]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[00:18:08]: [Resurrect Announcement] 疯狂白给 被此人复活： 骷髅.
+[00:20:14]: [Death Announcement] Mikaru 死于： 中暑. 她变成了可怕的鬼魂！
+[00:20:15]: [Resurrect Announcement] Mikaru 被此人复活： 骷髅.
+[00:20:39]: [Death Announcement] 疯狂白给 死于： 中暑. 她变成了可怕的鬼魂！
+[00:20:47]: [Resurrect Announcement] 疯狂白给 被此人复活： 骷髅.
+[00:22:31]: [Death Announcement] Mikaru 死于： 中暑. 她变成了可怕的鬼魂！
+[00:22:32]: [Resurrect Announcement] Mikaru 被此人复活： 骷髅.
+[00:23:18]: [Death Announcement] 疯狂白给 死于： 中暑. 她变成了可怕的鬼魂！
+[00:23:19]: [Resurrect Announcement] 疯狂白给 被此人复活： 骷髅.
+[00:25:07]: [Death Announcement] Mikaru 死于： 中暑. 她变成了可怕的鬼魂！
+[00:25:08]: [Resurrect Announcement] Mikaru 被此人复活： 骷髅.
+[00:31:18]: [Death Announcement] a s w k 死于： 沙刺. 她变成了可怕的鬼魂！
+[00:31:19]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[00:31:33]: [Death Announcement] 疯狂白给 死于： 沙刺. 她变成了可怕的鬼魂！
+[00:31:34]: [Resurrect Announcement] 疯狂白给 被此人复活： 骷髅.
+[00:33:48]: [Death Announcement] 疯狂白给 死于： 蜘蛛. 她变成了可怕的鬼魂！
+[00:33:49]: [Resurrect Announcement] 疯狂白给 被此人复活： 骷髅.
+[00:49:11]: [Death Announcement] Mikaru 死于： 树精守卫. 她变成了可怕的鬼魂！
+[00:49:12]: [Resurrect Announcement] Mikaru 被此人复活： 骷髅.
+[00:49:58]: [Announcement] Hound Attack: 2 days left
+[00:50:01]: [Skin Announcement] 疯狂白给 feet_buckle_shoe_red_garnet
+[00:55:03]: [Skin Announcement] a s w k legs_wathgrithr_victorian
+[00:57:59]: [Announcement] Hound Attack: 1 day left
+[01:00:47]: [Leave Announcement] Mikaru

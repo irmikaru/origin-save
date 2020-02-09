@@ -1,0 +1,33 @@
+[00:01:14]: [Join Announcement] Mikaru
+[00:01:52]: [Join Announcement] 疯狂白给
+[00:02:06]: [Leave Announcement] 疯狂白给
+[00:02:30]: [Death Announcement] Mikaru 死于： 猪人. 她变成了可怕的鬼魂！
+[00:02:39]: [Resurrect Announcement] Mikaru 被此人复活： 骷髅.
+[00:03:09]: [Join Announcement] 疯狂白给
+[00:03:55]: [Leave Announcement] 疯狂白给
+[00:08:01]: [Death Announcement] Mikaru 死于： 兔人. 她变成了可怕的鬼魂！
+[00:08:02]: [Resurrect Announcement] Mikaru 被此人复活： 骷髅.
+[00:08:55]: [Join Announcement] 疯狂白给
+[00:17:29]: [Death Announcement] Mikaru 死于： 狂暴熊獾. 她变成了可怕的鬼魂！
+[00:17:30]: [Resurrect Announcement] Mikaru 被此人复活： 骷髅.
+[00:18:01]: [Death Announcement] Mikaru 死于： 狂暴熊獾. 她变成了可怕的鬼魂！
+[00:18:02]: [Resurrect Announcement] Mikaru 被此人复活： 骷髅.
+[00:18:10]: [Leave Announcement] 疯狂白给
+[00:18:25]: [Death Announcement] Mikaru 死于： 狂暴熊獾. 她变成了可怕的鬼魂！
+[00:18:26]: [Resurrect Announcement] Mikaru 被此人复活： 骷髅.
+[00:19:15]: [Death Announcement] Mikaru 死于： 狂暴熊獾. 她变成了可怕的鬼魂！
+[00:19:20]: [Resurrect Announcement] Mikaru 被此人复活： 骷髅.
+[00:21:19]: [Join Announcement] 疯狂白给
+[00:26:35]: [Announcement] Hound Attack: 2 days left
+[00:28:52]: [Leave Announcement] 疯狂白给
+[00:31:28]: [Join Announcement] 疯狂白给
+[00:34:36]: [Announcement] Hound Attack: 1 day left
+[00:40:03]: [Death Announcement] Mikaru 死于： 兔人. 她变成了可怕的鬼魂！
+[00:40:04]: [Resurrect Announcement] Mikaru 被此人复活： 骷髅.
+[00:42:36]: [Announcement] Hound Attack: Today!
+[00:56:45]: [Death Announcement] Mikaru 死于： 兔人. 她变成了可怕的鬼魂！
+[00:56:46]: [Resurrect Announcement] Mikaru 被此人复活： 骷髅.
+[01:06:39]: [Announcement] Hound Attack: 2 days left
+[01:14:39]: [Announcement] Hound Attack: 1 day left
+[01:22:40]: [Announcement] Hound Attack: Today!
+[01:46:44]: [Leave Announcement] Mikaru

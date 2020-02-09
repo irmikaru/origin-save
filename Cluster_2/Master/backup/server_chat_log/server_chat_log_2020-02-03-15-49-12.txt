@@ -1,0 +1,8 @@
+[00:01:32]: [Join Announcement] Mikaru
+[00:02:20]: [Join Announcement] 疯狂白给
+[00:07:27]: [Announcement] Hound Attack: 2 days left
+[00:07:36]: [Death Announcement] Mikaru 死于： 岩浆虫. 她变成了可怕的鬼魂！
+[00:07:37]: [Resurrect Announcement] Mikaru 被此人复活： 骷髅.
+[00:15:28]: [Announcement] Hound Attack: 1 day left
+[00:18:06]: [Leave Announcement] Mikaru
+[00:19:06]: [Leave Announcement] 疯狂白给
