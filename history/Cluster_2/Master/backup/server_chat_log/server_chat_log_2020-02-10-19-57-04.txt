@@ -1,0 +1,4 @@
+[00:00:51]: [Announcement] Hound Attack: 2 days left
+[00:00:55]: [Announcement] Hound Attack: 2 days left
+[00:01:23]: [Join Announcement] Mikaru
+[00:05:57]: [Leave Announcement] Mikaru

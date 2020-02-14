@@ -1,6 +1,0 @@
-[00:01:17]: [Join Announcement] Mikaru
-[00:01:50]: [Join Announcement] 疯狂白给
-[00:02:40]: [Join Announcement] a s w k
-[00:04:18]: [Leave Announcement] Mikaru
-[00:04:27]: [Leave Announcement] 疯狂白给
-[00:04:27]: [Leave Announcement] a s w k
