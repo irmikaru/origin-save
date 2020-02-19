@@ -1,0 +1,10 @@
+[00:01:22]: [Join Announcement] Mikaru
+[00:02:12]: [Join Announcement] a s w k
+[00:08:07]: [Death Announcement] Mikaru 死于： 闪电羊. 她变成了可怕的鬼魂！
+[00:08:08]: [Resurrect Announcement] Mikaru 被此人复活： 骷髅.
+[00:13:48]: [Announcement] Hound Attack: 2 days left
+[00:21:49]: [Announcement] Hound Attack: 1 day left
+[00:29:49]: [Announcement] Hound Attack: Today!
+[00:43:41]: [Vote Announcement] rollback passed
+[00:54:22]: [Leave Announcement] a s w k
+[00:55:21]: [Leave Announcement] Mikaru

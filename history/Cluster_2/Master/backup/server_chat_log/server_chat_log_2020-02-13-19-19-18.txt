@@ -1,0 +1,25 @@
+[00:01:16]: [Join Announcement] Mikaru
+[00:01:31]: [Join Announcement] a s w k
+[00:02:06]: [Join Announcement] 疯狂白给
+[00:02:46]: [Death Announcement] 疯狂白给 死于： 兔人. 她变成了可怕的鬼魂！
+[00:02:50]: [Resurrect Announcement] 疯狂白给 被此人复活： 骷髅.
+[00:03:12]: [Death Announcement] 疯狂白给 死于： 青蛙. 她变成了可怕的鬼魂！
+[00:03:25]: [Resurrect Announcement] 疯狂白给 被此人复活： 骷髅.
+[00:04:15]: [Death Announcement] 疯狂白给 死于： 海星. 她变成了可怕的鬼魂！
+[00:04:16]: [Resurrect Announcement] 疯狂白给 被此人复活： 骷髅.
+[00:04:33]: [Death Announcement] 疯狂白给 死于： 海星. 她变成了可怕的鬼魂！
+[00:04:34]: [Resurrect Announcement] 疯狂白给 被此人复活： 骷髅.
+[00:15:02]: [Death Announcement] 疯狂白给 死于： 触手. 她变成了可怕的鬼魂！
+[00:15:04]: [Resurrect Announcement] 疯狂白给 被此人复活： 骷髅.
+[00:15:40]: [Announcement] Hound Attack: 2 days left
+[00:16:00]: [Leave Announcement] 疯狂白给
+[00:18:07]: [Join Announcement] 疯狂白给
+[00:18:22]: [Death Announcement] 疯狂白给 死于： 触手. 她变成了可怕的鬼魂！
+[00:18:23]: [Resurrect Announcement] 疯狂白给 被此人复活： 骷髅.
+[00:23:40]: [Announcement] Hound Attack: 1 day left
+[00:24:32]: [Death Announcement] 疯狂白给 死于： 怪物肉. 她变成了可怕的鬼魂！
+[00:24:33]: [Resurrect Announcement] 疯狂白给 被此人复活： 骷髅.
+[00:31:41]: [Announcement] Hound Attack: Today!
+[00:50:06]: [Leave Announcement] Mikaru
+[00:50:07]: [Leave Announcement] a s w k
+[00:50:07]: [Leave Announcement] 疯狂白给

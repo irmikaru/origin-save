@@ -364,6 +364,7 @@ KLEI     1 return {
           configuration_options={ bekkitt_skeleton_pen=0, null_option=true, skeleton_player=true },
           enabled=true 
         },
+        ["workshop-1296663404"]={ configuration_options={ CAOSHULIANG=6 }, enabled=true },
         ["workshop-1299651123"]={ configuration_options={  }, enabled=true },
         ["workshop-1365023186"]={ configuration_options={  }, enabled=true },
         ["workshop-1712895405"]={
@@ -390,6 +391,10 @@ KLEI     1 return {
             show_work="off",
             size_scale="default" 
           },
+          enabled=true 
+        },
+        ["workshop-1854353610"]={
+          configuration_options={ Cookpots="enables", otheritem="enables", professionalchef="enables" },
           enabled=true 
         },
         ["workshop-1935547247"]={
