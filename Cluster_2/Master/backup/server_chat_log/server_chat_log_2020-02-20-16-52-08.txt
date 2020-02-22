@@ -1,0 +1,177 @@
+[00:01:26]: [Join Announcement] Mikaru
+[00:04:41]: [Join Announcement] a s w k
+[00:10:01]: [Announcement] Hound Attack: 2 days left
+[00:18:02]: [Announcement] Hound Attack: 1 day left
+[00:26:02]: [Announcement] Hound Attack: Today!
+[00:29:22]: [Death Announcement] Mikaru 死于： 火. 她变成了可怕的鬼魂！
+[00:29:23]: [Resurrect Announcement] Mikaru 被此人复活： 骷髅.
+[00:29:32]: [Vote Announcement] rollback passed
+[00:29:32]: [Death Announcement] Mikaru 死于： 火猎犬. 她变成了可怕的鬼魂！
+[00:30:21]: [Announcement] Hound Attack: Today!
+[00:30:24]: [Announcement] Hound Attack: Today!
+[00:35:16]: [Death Announcement] Mikaru 死于： 闪电羊. 她变成了可怕的鬼魂！
+[00:35:17]: [Resurrect Announcement] Mikaru 被此人复活： 骷髅.
+[00:35:52]: [Vote Announcement] rollback passed
+[00:36:45]: [Announcement] Hound Attack: Today!
+[00:36:48]: [Announcement] Hound Attack: Today!
+[01:09:01]: [Announcement] Hound Attack: 2 days left
+[01:10:15]: [Death Announcement] Mikaru 死于： 猪人. 她变成了可怕的鬼魂！
+[01:10:16]: [Resurrect Announcement] Mikaru 被此人复活： 骷髅.
+[01:17:01]: [Announcement] Hound Attack: 1 day left
+[01:25:02]: [Announcement] Hound Attack: Today!
+[01:26:46]: [Death Announcement] Mikaru 死于： 兔人. 她变成了可怕的鬼魂！
+[01:26:48]: [Resurrect Announcement] Mikaru 被此人复活： 骷髅.
+[02:13:56]: [Death Announcement] a s w k 死于： 噩梦尖嘴怪. 她变成了可怕的鬼魂！
+[02:13:57]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[02:15:33]: [Death Announcement] a s w k 死于： 洞穴蠕虫. 她变成了可怕的鬼魂！
+[02:15:34]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[02:15:55]: [Death Announcement] a s w k 死于： 洞穴蠕虫. 她变成了可怕的鬼魂！
+[02:15:56]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[02:17:10]: [Death Announcement] a s w k 死于： 洞穴蠕虫. 她变成了可怕的鬼魂！
+[02:17:12]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[02:17:31]: [Death Announcement] a s w k 死于： 洞穴蠕虫. 她变成了可怕的鬼魂！
+[02:17:32]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[02:17:55]: [Death Announcement] a s w k 死于： 洞穴蠕虫. 她变成了可怕的鬼魂！
+[02:17:56]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[02:18:19]: [Death Announcement] Mikaru 死于： 洞穴蠕虫. 她变成了可怕的鬼魂！
+[02:18:20]: [Death Announcement] a s w k 死于： 洞穴蠕虫. 她变成了可怕的鬼魂！
+[02:18:22]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[02:18:31]: [Resurrect Announcement] Mikaru 被此人复活： 骷髅.
+[02:20:16]: [Death Announcement] a s w k 死于： 洞穴蠕虫. 她变成了可怕的鬼魂！
+[02:20:17]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[02:21:02]: [Death Announcement] a s w k 死于： 洞穴蠕虫. 她变成了可怕的鬼魂！
+[02:21:03]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[02:21:16]: [Death Announcement] a s w k 死于： 洞穴蠕虫. 她变成了可怕的鬼魂！
+[02:21:17]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[02:21:40]: [Death Announcement] a s w k 死于： 洞穴蠕虫. 她变成了可怕的鬼魂！
+[02:21:41]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[02:21:43]: [Death Announcement] Mikaru 死于： 洞穴蠕虫. 她变成了可怕的鬼魂！
+[02:21:44]: [Resurrect Announcement] Mikaru 被此人复活： 骷髅.
+[02:22:45]: [Death Announcement] a s w k 死于： 洞穴蠕虫. 她变成了可怕的鬼魂！
+[02:22:46]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[02:23:26]: [Death Announcement] a s w k 死于： 洞穴蠕虫. 她变成了可怕的鬼魂！
+[02:23:28]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[02:23:35]: [Death Announcement] a s w k 死于： 洞穴蠕虫. 她变成了可怕的鬼魂！
+[02:23:36]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[02:24:09]: [Death Announcement] Mikaru 死于： 洞穴蠕虫. 她变成了可怕的鬼魂！
+[02:24:10]: [Resurrect Announcement] Mikaru 被此人复活： 骷髅.
+[02:24:39]: [Death Announcement] a s w k 死于： 洞穴蠕虫. 她变成了可怕的鬼魂！
+[02:24:40]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[02:24:55]: [Death Announcement] a s w k 死于： 洞穴蠕虫. 她变成了可怕的鬼魂！
+[02:24:56]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[02:25:09]: [Death Announcement] a s w k 死于： 洞穴蠕虫. 她变成了可怕的鬼魂！
+[02:25:10]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[02:29:02]: [Death Announcement] a s w k 死于： 暴躁猴. 她变成了可怕的鬼魂！
+[02:29:03]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[02:29:05]: [Death Announcement] Mikaru 死于： 暴躁猴. 她变成了可怕的鬼魂！
+[02:29:06]: [Resurrect Announcement] Mikaru 被此人复活： 骷髅.
+[02:30:56]: [Death Announcement] a s w k 死于： 损坏的发条骑士. 她变成了可怕的鬼魂！
+[02:31:13]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[02:31:28]: [Death Announcement] Mikaru 死于： 损坏的发条骑士. 她变成了可怕的鬼魂！
+[02:31:29]: [Resurrect Announcement] Mikaru 被此人复活： 骷髅.
+[02:31:30]: [Death Announcement] a s w k 死于： 损坏的发条骑士. 她变成了可怕的鬼魂！
+[02:31:31]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[02:31:50]: [Death Announcement] a s w k 死于： 损坏的发条战车. 她变成了可怕的鬼魂！
+[02:31:51]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[02:33:08]: [Death Announcement] a s w k 死于： 损坏的发条战车. 她变成了可怕的鬼魂！
+[02:33:55]: [Death Announcement] Mikaru 死于： 损坏的发条战车. 她变成了可怕的鬼魂！
+[02:33:56]: [Resurrect Announcement] Mikaru 被此人复活： 骷髅.
+[02:34:12]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[02:34:30]: [Death Announcement] Mikaru 死于： 损坏的发条战车. 她变成了可怕的鬼魂！
+[02:34:31]: [Resurrect Announcement] Mikaru 被此人复活： 骷髅.
+[02:34:40]: [Death Announcement] Mikaru 死于： 损坏的发条骑士. 她变成了可怕的鬼魂！
+[02:34:41]: [Resurrect Announcement] Mikaru 被此人复活： 骷髅.
+[02:34:48]: [Death Announcement] Mikaru 死于： 损坏的发条骑士. 她变成了可怕的鬼魂！
+[02:34:49]: [Resurrect Announcement] Mikaru 被此人复活： 骷髅.
+[02:34:53]: [Death Announcement] a s w k 死于： 穴居悬蛛. 她变成了可怕的鬼魂！
+[02:34:54]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[02:35:04]: [Death Announcement] a s w k 死于： 穴居悬蛛. 她变成了可怕的鬼魂！
+[02:35:05]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[02:35:23]: [Death Announcement] a s w k 死于： 穴居悬蛛. 她变成了可怕的鬼魂！
+[02:35:25]: [Death Announcement] Mikaru 死于： 穴居悬蛛. 她变成了可怕的鬼魂！
+[02:35:26]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[02:35:26]: [Resurrect Announcement] Mikaru 被此人复活： 骷髅.
+[02:35:39]: [Death Announcement] a s w k 死于： 穴居悬蛛. 她变成了可怕的鬼魂！
+[02:35:40]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[02:35:50]: [Death Announcement] Mikaru 死于： 穴居悬蛛. 她变成了可怕的鬼魂！
+[02:35:50]: [Death Announcement] a s w k 死于： 穴居悬蛛. 她变成了可怕的鬼魂！
+[02:35:53]: [Resurrect Announcement] Mikaru 被此人复活： 骷髅.
+[02:35:56]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[02:36:09]: [Death Announcement] a s w k 死于： 穴居悬蛛. 她变成了可怕的鬼魂！
+[02:36:11]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[02:36:21]: [Death Announcement] Mikaru 死于： 穴居悬蛛. 她变成了可怕的鬼魂！
+[02:36:23]: [Resurrect Announcement] Mikaru 被此人复活： 骷髅.
+[02:37:15]: [Death Announcement] a s w k 死于： 损坏的发条骑士. 她变成了可怕的鬼魂！
+[02:37:17]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[02:37:38]: [Death Announcement] a s w k 死于： 损坏的发条战车. 她变成了可怕的鬼魂！
+[02:37:42]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[02:40:10]: [Death Announcement] a s w k 死于： 损坏的发条战车. 她变成了可怕的鬼魂！
+[02:40:11]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[02:40:29]: [Death Announcement] Mikaru 死于： 损坏的发条战车. 她变成了可怕的鬼魂！
+[02:40:30]: [Resurrect Announcement] Mikaru 被此人复活： 骷髅.
+[02:40:48]: [Death Announcement] a s w k 死于： 损坏的发条骑士. 她变成了可怕的鬼魂！
+[02:40:49]: [Death Announcement] Mikaru 死于： 损坏的发条战车. 她变成了可怕的鬼魂！
+[02:40:54]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[02:41:00]: [Death Announcement] a s w k 死于： 损坏的发条骑士. 她变成了可怕的鬼魂！
+[02:41:01]: [Resurrect Announcement] Mikaru 被此人复活： 骷髅.
+[02:41:08]: [Death Announcement] Mikaru 死于： 损坏的发条骑士. 她变成了可怕的鬼魂！
+[02:41:08]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[02:41:09]: [Resurrect Announcement] Mikaru 被此人复活： 骷髅.
+[02:41:17]: [Death Announcement] a s w k 死于： 损坏的发条骑士. 她变成了可怕的鬼魂！
+[02:41:21]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[02:41:29]: [Death Announcement] a s w k 死于： 损坏的发条骑士. 她变成了可怕的鬼魂！
+[02:41:30]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[02:41:38]: [Death Announcement] Mikaru 死于： 损坏的发条骑士. 她变成了可怕的鬼魂！
+[02:41:39]: [Resurrect Announcement] Mikaru 被此人复活： 骷髅.
+[02:43:43]: [Death Announcement] Mikaru 死于： 穴居悬蛛. 她变成了可怕的鬼魂！
+[02:43:44]: [Resurrect Announcement] Mikaru 被此人复活： 骷髅.
+[02:43:51]: [Death Announcement] a s w k 死于： 穴居悬蛛. 她变成了可怕的鬼魂！
+[02:43:52]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[02:44:18]: [Death Announcement] a s w k 死于： 穴居悬蛛. 她变成了可怕的鬼魂！
+[02:44:20]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[02:44:36]: [Death Announcement] a s w k 死于： 穴居悬蛛. 她变成了可怕的鬼魂！
+[02:44:40]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[02:44:49]: [Death Announcement] Mikaru 死于： 穴居悬蛛. 她变成了可怕的鬼魂！
+[02:44:50]: [Resurrect Announcement] Mikaru 被此人复活： 骷髅.
+[02:45:04]: [Death Announcement] a s w k 死于： 穴居悬蛛. 她变成了可怕的鬼魂！
+[02:45:05]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[02:47:19]: [Death Announcement] a s w k 死于： 损坏的发条主教. 她变成了可怕的鬼魂！
+[02:47:20]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[02:47:45]: [Death Announcement] a s w k 死于： 穴居悬蛛. 她变成了可怕的鬼魂！
+[02:47:53]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[02:48:15]: [Death Announcement] Mikaru 死于： 穴居悬蛛. 她变成了可怕的鬼魂！
+[02:48:20]: [Death Announcement] a s w k 死于： 损坏的发条战车. 她变成了可怕的鬼魂！
+[02:48:34]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[02:48:44]: [Resurrect Announcement] Mikaru 被此人复活： 骷髅.
+[02:48:54]: [Death Announcement] a s w k 死于： 损坏的发条战车. 她变成了可怕的鬼魂！
+[02:48:56]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[02:48:58]: [Death Announcement] Mikaru 死于： 黑暗. 她变成了可怕的鬼魂！
+[02:49:06]: [Resurrect Announcement] Mikaru 被此人复活： 骷髅.
+[02:50:27]: [Death Announcement] a s w k 死于： 黑暗. 她变成了可怕的鬼魂！
+[02:50:33]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[02:50:44]: [Death Announcement] a s w k 死于： 黑暗. 她变成了可怕的鬼魂！
+[02:50:45]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[02:50:59]: [Death Announcement] a s w k 死于： 穴居悬蛛. 她变成了可怕的鬼魂！
+[02:51:09]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[02:51:28]: [Death Announcement] a s w k 死于： 穴居悬蛛. 她变成了可怕的鬼魂！
+[02:51:31]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[02:51:32]: [Death Announcement] Mikaru 死于： 穴居悬蛛. 她变成了可怕的鬼魂！
+[02:51:37]: [Resurrect Announcement] Mikaru 被此人复活： 骷髅.
+[02:51:42]: [Death Announcement] a s w k 死于： 穴居悬蛛. 她变成了可怕的鬼魂！
+[02:51:43]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[02:51:57]: [Death Announcement] a s w k 死于： 穴居悬蛛. 她变成了可怕的鬼魂！
+[02:51:58]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[02:52:10]: [Death Announcement] Mikaru 死于： 穴居悬蛛. 她变成了可怕的鬼魂！
+[02:52:13]: [Resurrect Announcement] Mikaru 被此人复活： 骷髅.
+[02:53:39]: [Death Announcement] Mikaru 死于： 黑暗. 她变成了可怕的鬼魂！
+[02:55:41]: [Resurrect Announcement] Mikaru 被此人复活： 骷髅.
+[02:57:43]: [Death Announcement] a s w k 死于： 燧石. 她变成了可怕的鬼魂！
+[02:57:44]: [Resurrect Announcement] a s w k 被此人复活： 骷髅.
+[02:59:46]: [Death Announcement] Mikaru 死于： 黑暗. 她变成了可怕的鬼魂！
+[02:59:48]: [Resurrect Announcement] Mikaru 被此人复活： 骷髅.
+[03:02:33]: [Death Announcement] Mikaru 死于： 黑暗. 她变成了可怕的鬼魂！
+[03:02:35]: [Resurrect Announcement] Mikaru 被此人复活： 骷髅.
+[03:09:09]: [Announcement] Hound Attack: 2 days left
+[03:17:10]: [Announcement] Hound Attack: 1 day left
+[03:19:16]: [Leave Announcement] Mikaru
+[03:19:27]: [Leave Announcement] a s w k

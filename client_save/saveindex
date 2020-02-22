@@ -361,11 +361,12 @@ KLEI     1 return {
           enabled=true 
         },
         ["workshop-1271089343"]={
-          configuration_options={ bekkitt_skeleton_pen=0, null_option=true, skeleton_player=true },
+          configuration_options={ bekkitt_skeleton_pen=0.05, null_option=true, skeleton_player=true },
           enabled=true 
         },
         ["workshop-1296663404"]={ configuration_options={ CAOSHULIANG=6 }, enabled=true },
         ["workshop-1299651123"]={ configuration_options={  }, enabled=true },
+        ["workshop-1321940123"]={ configuration_options={  }, enabled=true },
         ["workshop-1365023186"]={ configuration_options={  }, enabled=true },
         ["workshop-1712895405"]={
           configuration_options={
@@ -443,6 +444,19 @@ KLEI     1 return {
         ["workshop-458587300"]={ configuration_options={ Ownership=false, Travel_Cost=32 }, enabled=true },
         ["workshop-466732225"]={ configuration_options={  }, enabled=true },
         ["workshop-493673961"]={ configuration_options={ key4=122 }, enabled=true },
+        ["workshop-507547768"]={
+          configuration_options={
+            droppable=1,
+            eyeturret_attack_period=3,
+            eyeturret_damage=100,
+            eyeturret_health=1000,
+            eyeturret_range=15,
+            eyeturret_regen=30,
+            movable=1 
+          },
+          enabled=true 
+        },
+        ["workshop-588560555"]={ configuration_options={  }, enabled=true },
         ["workshop-661253977"]={
           configuration_options={ amudiao=true, baodiao=0, kong=0, rendiao=0, zbdiao=false },
           enabled=true 
@@ -482,6 +496,7 @@ KLEI     1 return {
           enabled=true 
         },
         ["workshop-818739975"]={ configuration_options={ DFV_Language="CN" }, enabled=true },
+        ["workshop-922251350"]={ configuration_options={ auto_stack=true, auto_stack_range=12 }, enabled=true },
         ["workshop-934638020"]={ configuration_options={  }, enabled=true } 
       },
       server={

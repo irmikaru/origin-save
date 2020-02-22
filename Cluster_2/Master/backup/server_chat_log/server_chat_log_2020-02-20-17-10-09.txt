@@ -1,0 +1,8 @@
+[00:00:46]: [Announcement] Hound Attack: 1 day left
+[00:00:49]: [Announcement] Hound Attack: 1 day left
+[00:02:16]: [Join Announcement] Mikaru
+[00:03:03]: [Join Announcement] a s w k
+[00:06:59]: [Announcement] Hound Attack: 1 day left
+[00:14:55]: [Leave Announcement] Mikaru
+[00:15:00]: [Announcement] Hound Attack: Today!
+[00:15:10]: [Leave Announcement] a s w k

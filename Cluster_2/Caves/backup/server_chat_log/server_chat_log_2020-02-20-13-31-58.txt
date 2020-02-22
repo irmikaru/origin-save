@@ -1,0 +1,11 @@
+[00:02:18]: [Join Announcement] Mikaru
+[00:13:28]: [Announcement] Hound Attack: 2 days left
+[00:21:28]: [Announcement] Hound Attack: 1 day left
+[00:25:35]: [Join Announcement] a s w k
+[00:29:29]: [Announcement] Hound Attack: Today!
+[00:37:30]: [Announcement] Hound Attack: 2 days left
+[00:38:47]: [Death Announcement] Mikaru 死于： 中暑. 她变成了可怕的鬼魂！
+[00:45:30]: [Announcement] Hound Attack: 1 day left
+[00:48:16]: [Resurrect Announcement] Mikaru 被此人复活： 骷髅.
+[00:53:31]: [Announcement] Hound Attack: Today!
+[01:00:58]: [Leave Announcement] Mikaru
